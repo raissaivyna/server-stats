@@ -39,3 +39,10 @@ CPU em uso: 3.9%
 Núcleos   : 16
 ...
 ```
+
+## Environments tested
+
+| Environment | OS | Kernel | Notes |
+|---|---|---|---|
+| Local machine | Ubuntu 24.04.2 LTS | 6.11.0-26-generic | Dual boot, 16 cores |
+| GitHub Codespaces | Ubuntu 24.04.4 LTS | 6.8.0-1044-azure | Microsoft Azure cloud server |
